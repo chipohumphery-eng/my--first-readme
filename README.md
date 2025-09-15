@@ -1,7 +1,9 @@
 #school project
 students can research online, prepare assignments and practice digital skills
-#installing instruction
+
+##installing instruction
  git clone https://github.com/chipohumphery-eng/my--first-readme.git
-#author
+
+##author
 chipohumphery-https://github.com/chipohumphery-eng
 
